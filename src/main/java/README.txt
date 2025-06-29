@@ -2,8 +2,8 @@ STUDENT REGISTRATION & COURSE MANAGEMENT SYSTEM
 ===============================================
 
 Student: Samson Njaji
-ID: 23050541
-Course: Database Programming CAT 5
+ID: 23/05541
+Course: BSD 2304:ADVANCED JAVA PROGRAMMING
 
 SUBMISSION CONTENTS:
 ✅ Complete Java source code (12 files)
