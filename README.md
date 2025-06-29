@@ -1,40 +1,36 @@
 # 🎓 Student Registration & Course Management System
 
-A comprehensive JDBC-based application demonstrating enterprise-level database programming skills.
+> **Perfect Score Achievement: 30/30 marks** 🏆  
+> A professional JDBC-based application demonstrating enterprise-level database programming.
 
-## 🏆 Achievement
-**Grade: 30/30 marks** - Perfect score on Database Programming CAT
+## 🚀 Live Demo Features
 
-## 🚀 Features
-- Professional student registration with validation
-- Interactive course assignment system
-- Advanced SQL JOIN queries for reporting
-- Comprehensive error handling
-- Clean, maintainable code architecture
+### ✨ What This System Does
+- **Student Registration** - Professional form with validation
+- **Course Assignment** - Interactive course enrollment system  
+- **SQL JOIN Reports** - Advanced database queries with comprehensive reporting
+- **Real-time Status** - Live enrollment tracking and duplicate prevention
 
-## 💻 Technologies
-- **Java 24** - Core programming language
-- **MySQL 9.3** - Database management system  
-- **JDBC** - Database connectivity
-- **IntelliJ IDEA** - Development environment
+### 💻 Technical Excellence
+- **Java 24** with professional OOP design
+- **MySQL 9.3** with normalized database schema
+- **JDBC PreparedStatements** for secure database operations
+- **Clean Architecture** - DAO, Service, and Model layers
 
-## 📊 System Capabilities
-- ✅ Student registration with duplicate email prevention
-- ✅ Course assignment with conflict checking
-- ✅ Real-time enrollment status tracking
-- ✅ Professional reporting with statistics
-- ✅ Comprehensive data validation
+## 📊 System Screenshots
 
-## 🎯 Academic Excellence
-This project demonstrates mastery of:
-- Database design and normalization
-- JDBC programming and PreparedStatements
-- SQL JOIN operations
-- Object-oriented programming principles
-- Professional software development practices
+*Professional console interface with full functionality*
 
-**Built by:** Samson Njaji  
-**Course:** Database Programming  and Advanced JAva
+### Main Features:
+1. **📝 Student Registration** - Complete validation and database insertion
+2. **📚 Course Assignment** - Interactive course selection with status tracking  
+3. **📊 SQL JOIN Reports** - Advanced queries showing student-course relationships
+4. **📈 Statistics Dashboard** - Comprehensive enrollment analytics
 
+## 🏗️ Database Architecture
 
-**Institution:** KCA Univerity
+```sql
+students (student_id, first_name, last_name, email, phone, date_of_birth)
+courses (course_id, course_code, course_name, credits, department, semester)  
+registrations (registration_id, student_id, course_id, enrollment_date, grade)
+
