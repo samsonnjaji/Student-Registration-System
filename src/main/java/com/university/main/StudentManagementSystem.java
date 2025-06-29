@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 /**
  * Main application class for Student Registration & Course Management System
+ * BY NJAJI SIBONA  SAMSON
  *
  * This system demonstrates:
  * - JDBC database connectivity
